@@ -52,7 +52,7 @@ background_opacity 0.94
 dynamic_background_opacity yes
 
 # Background image (enable if desired)
-background_image ~/Pictures/blue.jpg
+background_image ~/.config/kitty/background/1.jpg
 background_image_layout scaled
 background_image_linear yes
 background_tint 0.30
