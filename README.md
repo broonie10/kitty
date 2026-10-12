@@ -26,7 +26,7 @@ sudo apt install kitty
 fullscreen yes
 
 # Window padding
-window_padding_width 8
+window_padding_width 0
 
 # Remove the OS title bar
 hide_window_decorations yes
@@ -43,19 +43,19 @@ resize_in_steps yes
 # ============================================================
 
 # Deep Cyberdream-style background
-background #0b0e14
+# background #0b0e14
 
 # Slight transparency
-background_opacity 0.94
+# background_opacity 0.94
 
 # Allow opacity to be changed dynamically
-dynamic_background_opacity yes
+# dynamic_background_opacity yes
 
 # Background image (enable if desired)
-background_image ~/.config/kitty/background/1.jpg
-background_image_layout scaled
-background_image_linear yes
-background_tint 0.30
+# background_image ~/.config/kitty/background/1.jpg
+# background_image_layout scaled
+# background_image_linear yes
+# background_tint 0.30
 
 
 # ============================================================
